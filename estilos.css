@@ -3,7 +3,7 @@
 body{
     font-family: 'Franklin Gothic book', 'Arial Narrow', Arial, sans-serif;
     background-color: #ffffff;
-    background-image: url(Technologyab23.jpg);
+    
    
 
 }
@@ -115,14 +115,6 @@ body{
 }
 
 
-
-.twitter-tweet p{
-    
-    
-    text-align: right;
-    margin-right: 20px;
-    
-}
 
 .tabla2 h2{
     width: 1350px;
@@ -380,11 +372,12 @@ body{
 
 aside{
  
-    margin-left: 70px;
+    margin-left: 200px;
     margin-top: 20px;
     margin-bottom: 70px;
     margin-right: 20px;
     text-align: right;
+    width: 200px;
 }
 
 .centrar h3{
@@ -403,6 +396,7 @@ aside{
     font-size: 20px;
     height: 0%;
     margin-bottom: 70px;
+    
 }
 
 .tabla9 h2{
@@ -482,6 +476,45 @@ footer
     height: 40px;
     font-size: 30px;
     margin-top: 3%;
+}
+.test h2{
+    width: 1350px;
+    text-align: justify;
+    height: 40px;
+    font-size: 20px;
+    
+}
+.crucigrama h2{
+    width: 1350px;
+    text-align: justify;
+    height: 40px;
+    font-size: 20px; 
+}
+.html{
+    margin-left: 600px;
+    margin-top: 20px;
+    margin-bottom: 70px;
+    margin-right: 20px;
+    text-align: right;
+    
+}
+
+.redes h2{
+    font-family: 'Franklin Gothic book', 'Arial Narrow', Arial, sans-serif;
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 20px;
+}
+.sociales{
+    text-align: right;
+    padding-bottom: 20px;
+    margin-right: 20px;
+    
+}
+.sociales li{
+    display: inline-block;
+    
 }
 
 
